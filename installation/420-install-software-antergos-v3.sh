@@ -33,13 +33,13 @@ sudo pacman -S nemo nemo-fileroller --noconfirm --needed
 
 
 sudo pacman -S arandr --needed --noconfirm
-sudo pacman -S audacious --needed --noconfirm
-sudo pacman -S audacity --needed --noconfirm
-sudo pacman -S chromium --needed --noconfirm
+#sudo pacman -S audacious --needed --noconfirm
+#sudo pacman -S audacity --needed --noconfirm
+#sudo pacman -S chromium --needed --noconfirm
 sudo pacman -S geany --needed --noconfirm
-sudo pacman -S gnumeric --needed --noconfirm
-sudo pacman -S gtk-recordmydesktop --needed --noconfirm
-sudo pacman -S libreoffice --needed --noconfirm
+#sudo pacman -S gnumeric --needed --noconfirm
+#sudo pacman -S gtk-recordmydesktop --needed --noconfirm
+#sudo pacman -S libreoffice --needed --noconfirm
 sudo pacman -S lightdm-gtk-greeter-settings --needed --noconfirm
 sudo pacman -S lxterminal --needed --noconfirm
 sudo pacman -S opera --needed --noconfirm
